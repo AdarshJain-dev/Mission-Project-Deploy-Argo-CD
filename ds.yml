@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: mission
-          image: adarshjain428/mission:12-4a88940
+          image: adarshjain428/mission:27-4a88940
           imagePullPolicy: Always
           ports:
             - containerPort: 8080 # The port that the container is running on in the cluster
